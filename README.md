@@ -1,4 +1,4 @@
-### Starter Project for the Material UI playlist
+### Notes-App using Material-ui
 
 Download the code & run **Yarn install** to install dependencies before starting the app.
 
